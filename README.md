@@ -1,4 +1,4 @@
-#2D Paper Airplane Simulation
+# 2D Paper Airplane Simulation
 
 Luca Lotito 
 
